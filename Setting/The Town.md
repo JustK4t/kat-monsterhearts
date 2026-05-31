@@ -1,0 +1,1 @@
+Has a blockbuster and radio shack
