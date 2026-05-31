@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d1789f8ce63cf792",
+        "id": "26acf68a96b114e7",
         "type": "tabs",
         "children": [
           {
-            "id": "a766c3f85313c171",
+            "id": "ed9a8db8aeb3a463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Trish Gold.md",
+                "file": "mh-wiki/docs/Characters/NPC/Trish Gold.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Trish Gold"
             }
-          },
-          {
-            "id": "3c63752fec021867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Main/Everette Eerie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Everette Eerie"
-            }
-          },
-          {
-            "id": "6aafb43b879d5d7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_MC Notes/Brain dump.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brain dump"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,8 +183,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "6aafb43b879d5d7b",
+  "active": "ed9a8db8aeb3a463",
   "lastOpenFiles": [
+    "mh-wiki/site/Characters/NPC/Trish Gold/index.html",
+    "mh-wiki/site/Characters/NPC/Trish Gold",
+    "mh-wiki/site/Characters/NPC/LC/index.html",
+    "mh-wiki/site/Characters/NPC/LC",
+    "mh-wiki/site/Characters/NPC/Jack Chetly/index.html",
+    "mh-wiki/site/Characters/NPC/Jack Chetly",
+    "mh-wiki/site/Characters/NPC/Everette's GF/index.html",
+    "mh-wiki/site/Characters/NPC/Everette's GF",
+    "mh-wiki/site/Characters/NPC/Cleo Oisin (oh-Sheen)/index.html",
+    "mh-wiki/site/Characters/NPC/Cleo Oisin (oh-Sheen)",
+    "mh-wiki/site/Characters/Main/Graye Wilde/index.html",
+    "mh-wiki/site/Characters/NPC/trish.png",
+    "mh-wiki/site/assets/images/favicon.png",
+    "mh-wiki/site/img/merrymont.png",
+    "mh-wiki/site/img/raventhorne.png",
+    "mh-wiki/site/img/MCUlogo.png",
+    "mh-wiki/site/img/LC.png",
+    "mh-wiki/site/img/graye_teen.png",
+    "mh-wiki/site/img/eve.png",
+    "mh-wiki/site/img/Cleo_Alt.png",
+    "mh-wiki/site/img/Cleo.png",
+    "mh-wiki/docs/Characters/Main/Alyssa Merrymont.md",
+    "mh-wiki/docs/Characters/Main/Aliya Raventhorne.md",
+    "_MC Notes/Brain dump.md",
     "Characters/NPC/Jack Chetly.md",
     "Characters/NPC/LC.md",
     "Characters/NPC/Cleo Oisin (oh-Sheen).md",
@@ -226,36 +221,15 @@
     "Characters/Main/Aliya Raventhorne.md",
     "Characters/Main/Alyssa Merrymont.md",
     "Setting/The School.md",
-    "zzMedia/eve.png",
-    "_MC Notes/Brain dump.md",
-    "_MC Notes",
     "Setting/Locations/The Lake.md",
     "Setting/Misc/Gazette/An interview with Alyssa Merrymont.md",
     "Setting/Locations/Rival School.md",
     "Setting/Locations/The Old Quarry.md",
     "Setting/Misc/The Gazette.md",
-    "Setting/Misc/Gazette",
-    "Setting/Misc",
-    "zzMedia/graye_teen.png",
-    "zzMedia/graye.jpg",
     "Setting/Setting.md",
     "Setting/The Town.md",
     "Setting/The Lab.md",
-    "zzMedia/Cleo_Alt.png",
-    "zzMedia/merrymont.png",
-    "zzMedia/MCUlogo.png",
-    "zzMedia/annalise_multi.png",
-    "zzMedia/annalise.png",
-    "zzMedia/raventhorne.png",
-    "zzMedia/trish.png",
-    "zzMedia",
     "Characters/Untitled.md",
-    "Setting/Locations",
-    "Characters/NPC",
-    "Characters/Main",
-    "Characters",
-    "Setting",
-    "Welcome.md",
-    "Untitled.base"
+    "Welcome.md"
   ]
 }

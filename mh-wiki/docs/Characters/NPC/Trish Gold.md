@@ -1,7 +1,8 @@
 *The truth is out there and I'm going to be the one to find it!*
-![[trish.png | 300]]
+![Trish](./trish.png){ align=right }
 
 **Bio**
+
 Trish has lived in town her whole life. She/Her pronouns, doesn't like to stick with any given sexuality label. She's into journalism as a byproduct of her true hobby: being obsessed with the supernatural. She is fully mortal and has never actually had a supernatural experience, but is always yammering on about Frogmen in [[The Lake]] or the Alien hive in [[The Lab]]. She does her best with the school newspaper and takes it very seriously despite always managing to miss the real point of the story or make the person she is writing about seem really awkward. Junior, decent student, handful of friends, energetic and upbeat even in the face of very direct bullying.
 
 She is a decent student, has a handful of friends, and a good home life.

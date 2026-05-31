@@ -1,0 +1,7 @@
+site_name: Monsterhearts
+theme: material
+plugins:
+  - search
+  - ezlinks
+markdown_extensions:
+  - attr_list
