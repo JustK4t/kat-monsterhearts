@@ -16,9 +16,9 @@ on:
       - 'docs/**'
       - 'mkdocs.yml'
 
-# These permissions are required for it to work
+# Least-privilege permissions for the Pages deploy flow
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -30,26 +30,32 @@ concurrency:
 jobs:
   buildAndDeploy:
     runs-on: ubuntu-latest
-    # This environment is required!
+    # This environment is required for Pages deployments
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.pages_url }}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+
       - name: Setup Python 3.x
         uses: actions/setup-python@v4
         with:
           python_version: '3.x' # Uses latest 3.x version.
+
       - name: Install dependencies
-        # Alternatively: pip install mkdocs
         run: pip install mkdocs mkdocs-material mkdocs-ezlinks-plugin mkdocs-autolinks-plugin mkdocs-callouts
-      - name: Build Docs and deploy
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build site
         run: |
-          # Ensure pushes use the Actions token (kept masked by Actions)
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
           cd ./mh-wiki/
           mkdocs build
-          mkdocs gh-deploy --force
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: mh-wiki/site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
