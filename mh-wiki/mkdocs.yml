@@ -1,7 +1,21 @@
 site_name: Monsterhearts
-theme: material
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: purple
+
+extra_css:
+  - css/main.css
+markdown_extensions:
+  - attr_list
+  - nl2br
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 plugins:
   - search
   - ezlinks
-markdown_extensions:
-  - attr_list
+  - autolinks 
+  - callouts

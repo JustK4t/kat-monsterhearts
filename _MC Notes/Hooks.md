@@ -14,9 +14,8 @@
 
 ## [[Everette Eerie]]
 
-* Accident that killed their mom
+* Accident that killed their mom (trying to leak to LC's mom, killed by LC's dad)
 * Accident that killed them
-
 
 ## [[Graye Wilde]]
 
