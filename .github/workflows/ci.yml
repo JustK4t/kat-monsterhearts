@@ -44,8 +44,11 @@ jobs:
       - name: Install dependencies
         # Alternatively: pip install mkdocs
         run: pip install mkdocs mkdocs-material
+      - name: Testing
+        run: ls -a
       - name: Build Docs
         run: mkdocs build
+        path: ./docs/
       - name: Configure GitHub Pages
         # I have no idea if this actually needed...
         uses: actions/configure-pages@v3
@@ -53,8 +56,6 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: 'site/' # MkDocs builds to site/ by default
-      - name: Testing
-        run: ls -a
       - name: Deploy to GitHub Pages
         id: deployment # This is required for environment
         uses: actions/deploy-pages@v2
