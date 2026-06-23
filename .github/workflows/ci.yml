@@ -43,9 +43,7 @@ jobs:
           python_version: '3.x' # Uses latest 3.x version.
       - name: Install dependencies
         # Alternatively: pip install mkdocs
-        run: pip install mkdocs mkdocs-material mkdocs-ezlinks-plugin mkdocs-autolinks-plugin mkdocs-callouts-plugin
-      - name: Testing
-        run: ls -a
+        run: pip install mkdocs mkdocs-material mkdocs-ezlinks-plugin mkdocs-autolinks-plugin mkdocs-callouts
       - name: Build Docs
         run: cd ./mh-wiki/ && mkdocs build
       - name: Configure GitHub Pages
