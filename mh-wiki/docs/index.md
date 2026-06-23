@@ -1,3 +1,7 @@
-# Welcome to Monsterhearts
+# Welcome to Oak Vale
 
-[!Logo](./img/MCUlogo.png){: .logo-img}
+![Game Logo](./img/MCUlogo.png){: .logo-img}
+
+Check out [the setting](Setting.md) or just click around :)
+
+Still very much under construction
