@@ -52,7 +52,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: 'site/' # MkDocs builds to site/ by default
+          path: 'mh-wiki/site/' # MkDocs builds to site/ by default
       - name: Deploy to GitHub Pages
         id: deployment # This is required for environment
         uses: actions/deploy-pages@v2
