@@ -33,4 +33,4 @@ jobs:
       - name: Build Docs
         run: cd ./mh-wiki/ && mkdocs build
       - name: deploy docs
-        run: mkdocs gh-serve --force
+        run: mkdocs gh-deploy --force
