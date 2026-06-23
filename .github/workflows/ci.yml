@@ -18,7 +18,7 @@ on:
 
 # These permissions are required for it to work
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -44,5 +44,12 @@ jobs:
       - name: Install dependencies
         # Alternatively: pip install mkdocs
         run: pip install mkdocs mkdocs-material mkdocs-ezlinks-plugin mkdocs-autolinks-plugin mkdocs-callouts
-      - name: Build Docs
-        run: cd ./mh-wiki/ && mkdocs build && mkdocs gh-deploy --force
+      - name: Build Docs and deploy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Ensure pushes use the Actions token (kept masked by Actions)
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+          cd ./mh-wiki/
+          mkdocs build
+          mkdocs gh-deploy --force
