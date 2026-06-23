@@ -47,7 +47,7 @@ jobs:
       - name: Testing
         run: ls -a
       - name: Build Docs
-        run: mkdocs build
+        run: cd ./mh-wiki/ && mkdocs build
       - name: Configure GitHub Pages
         # I have no idea if this actually needed...
         uses: actions/configure-pages@v3
