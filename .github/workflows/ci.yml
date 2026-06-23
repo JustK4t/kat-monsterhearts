@@ -45,4 +45,4 @@ jobs:
         # Alternatively: pip install mkdocs
         run: pip install mkdocs mkdocs-material mkdocs-ezlinks-plugin mkdocs-autolinks-plugin mkdocs-callouts
       - name: Build Docs
-        run: cd ./mh-wiki/ && mkdocs build && mkdocs gh-serve --force
+        run: cd ./mh-wiki/ && mkdocs build && mkdocs gh-deploy --force
