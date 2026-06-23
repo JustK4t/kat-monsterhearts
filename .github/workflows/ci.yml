@@ -12,6 +12,7 @@ on:
     # the requirements.txt file or the mkdocs.yml file
     # are edited and commited.
     paths:
+      - '**'
       - 'docs/**'
       - 'mkdocs.yml'
 
