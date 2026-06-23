@@ -26,7 +26,6 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material 
-      - run: pip install search
       - run: pip install ezlinks
       - run: pip install autolinks
       - run: pip install callouts
