@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mh-wiki/docs/Setting/Brookhaven National Laboratory.md",
+                "file": "mh-wiki/docs/Setting/Misc/The Gazette.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brookhaven National Laboratory"
+              "title": "The Gazette"
             }
           }
         ]
@@ -186,6 +186,8 @@
   "active": "ed9a8db8aeb3a463",
   "lastOpenFiles": [
     "mh-wiki/docs/Setting/Maple Valley High.md",
+    "The.md",
+    "mh-wiki/docs/Setting/Brookhaven National Laboratory.md",
     "mh-wiki/docs/Setting/Locations/The Old Quarry.md",
     "mh-wiki/docs/Setting/Locations/Lake Valor.md",
     "mh-wiki/docs/Characters/NPC/Trish Gold.md",
@@ -228,8 +230,6 @@
     "Characters/NPC/Trish Gold.md",
     "_MC Notes/Hooks.md",
     "Characters/Main/Graye Wilde.md",
-    "Characters/Main/Annalise Devin.md",
-    "Characters/Main/Everette Eerie.md",
-    "Characters/Main/Aliya Raventhorne.md"
+    "Characters/Main/Annalise Devin.md"
   ]
 }

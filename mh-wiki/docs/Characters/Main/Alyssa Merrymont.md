@@ -1,9 +1,3 @@
-![[merrymont.png | 300]]
-
-She/Her
-
-
-
 > [!QUOTE|right] The \_\_\_\_ one
 > ![Portrait of Alyssa](./portraits/merrymont.png){: .bio-portrait}
 > *"Cheesy Quote"*{: .bio-quote}
@@ -18,7 +12,7 @@ She/Her
 > - Player: Izzie
 > - Skin: Fable
 > - Pronouns: She/Her
-> - Age: 
+> - Age: 17
 > - Height: 
 > - Fun fact
 
