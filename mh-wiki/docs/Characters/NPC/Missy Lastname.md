@@ -7,10 +7,11 @@
 ## **Bio**{: .bi-section-title}
 
 Works on the newspaper club with [Trish](./Trish%20Gold.md)
+Best friends with: ??? (sit together in homeroom, not trish)
 
 > [!INFO|left] Quick Facts
-> - Pronouns: 
-> - Age: 
+> - Pronouns: She/Her
+> - Age: 17
 > - Height: 
 > - Fun fact
 

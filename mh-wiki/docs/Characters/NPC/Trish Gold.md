@@ -19,3 +19,5 @@ She is a decent student, has a close handful of friends, and a good home life.
 ## **Main Character Connections**{: .connections-title}
 
 [Aliya](Aliya Raventhorne.md) - Friends from a young age, the two grew apart after sharing a kiss in the 5th grade. Trish tasted like garlic which Aliya hates and became convinced she was a vampire. Trish spent the next several years poking Aliya with silver objects and trying to get her to cross running water and in return was constantly mocked by Aliya. While it has tapered off since High School began, Trish is still sure she's right and has a *massive*, crush on Aliya.
+
+[Amy](El Adir.md) - Amy has been flirting with Trish heavy lately, shes not really sure what to do with the attention after being ignored/unrequited by Aliya for so long

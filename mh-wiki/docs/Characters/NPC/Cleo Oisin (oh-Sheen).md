@@ -18,4 +18,4 @@ Cleo gets decent grades and is being tutored in several subjects. Fae get along 
 
 ## **Main Character Connections**{: .connections-title}
 
-No one... Yet ;)
+[Aliya](Aliya Raventhorne.md) Sits behind her in homeroom, constantly pointing out things outside the window and flirting hard enough no one is sure if its for fun or for serious.

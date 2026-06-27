@@ -28,6 +28,6 @@ Their parents, Sue and Harold Wilde, are well-meaning people who do try their be
 
 ## **Main Character Connections**{: .connections-title}
 
-[link](.md) - Blah blah blah
+[Amy](El Adir.md) - Good friends
 
 No one... Yet ;)

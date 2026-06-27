@@ -11,7 +11,7 @@ Bio goes here
 > [!INFO|left] Quick Facts
 > - Pronouns: She/Her
 > - Age: 17
-> - Height: 
+> - Height: 5'6" (167cm)
 > - Petunia had to have 9 wisdom teeth removed, a state record!
 
 ## **Main Character Connections**{: .connections-title}

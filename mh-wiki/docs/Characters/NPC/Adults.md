@@ -15,3 +15,11 @@ Older brother of Annalise, going to college in the larger nearby town, maybe to 
 
 ## Ms Evermore
 Homeroom teacher for this school year
+
+## Nisha Raventhorne (Aliya's cousin, ~26, she/her)
+Calm, cool, collected, Mature, Huge older sister vibes, Gay
+
+## Morwenna Raventhorne (Aliya's aunt, 39, she/her)
+Frazzled, Friendly, “Aunt Wennie”
+Loves to cook and eat, but eating human food is getting harder and more painful
+Raised Aliya

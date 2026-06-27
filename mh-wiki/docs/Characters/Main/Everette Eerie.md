@@ -10,6 +10,8 @@ Meet Everette Eerie, 17yo former Volleyball star. After an accident that happene
 
 Dated Petunia for a long time and tbh still wants her back
 
+Has become increasingly withdrawn and socially isolated.
+
 > [!INFO|left] Quick Facts
 > - Player: Jon
 > - Skin: Ghoul

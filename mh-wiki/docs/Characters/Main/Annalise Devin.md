@@ -22,6 +22,6 @@ Older brother named [Lucas](../NPC/Adults.md#lucas-devin), going to college in t
 
 ## **Main Character Connections**{: .connections-title}
 
-[link](.md) - Blah blah blah
+[Everette](Everette Eerie.md) - Noticed how much he changed and how different he smells since the incident, would love to know why.
 
-No one... Yet ;)
+[Alyssa](Alyssa Merrymont.md) - This girl smells insane
