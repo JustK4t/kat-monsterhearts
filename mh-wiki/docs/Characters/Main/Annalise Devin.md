@@ -16,7 +16,7 @@ Older brother named [Lucas](_Adults.md#lucas-devin), going to college in the lar
 > - Pronouns: She/Her
 > - Age: 
 > - Height: 
-> - Fun fact
+> - Fun fact:
 
 ![Portrait of Annalise](./portraits/annalise_multi.png){: .bio-portrait}
 

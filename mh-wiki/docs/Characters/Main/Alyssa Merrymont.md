@@ -1,19 +1,23 @@
-> [!QUOTE|right] The \_\_\_\_ one
+> [!QUOTE|right] The royal one
 > ![Portrait of Alyssa](./portraits/merrymont.png){: .bio-portrait}
-> *"Cheesy Quote"*{: .bio-quote}
+> *"A woman need not be judged by who her partner is. Let her actions show you her worth."*{: .bio-quote}
 
 # **Alyssa Merrymont**{: .bio-page-title}
 
 ## **Bio**{: .bio-section-title}
 
-"Adventure Party at the End of the World" was a game that did not sell very well. Critics derided it for its unrealistic depictions of characters and shallow story - a princess joining a group of knights going to stop a deity who was attempting to take over the world and bring peace through conquest, who would buy that as a realistic concept? Still, the game sold well enough to somehow be approved for a sequel, and under pressure to make it perform, it became much more 'generic', and in doing so, somehow managed to sell much better. One of the main heroines, Everlyn Merrymont, was a favorite among fans... who only liked her once she became weak, helpless, and nothing but a bumbling idiot who fawned over the main character. This caused many people to post their own stories and theories about her online, on message boards, on forums, depicting her in a myriad of different ways, in relationships with everyone, going through pleasure and pain. And one day, Evelyn simply.. appeared in the real world. Memories of her 'original' story laid in her head before a flood of every story, bad poem, scathing review, and creepy message bombarded her head. She barely managed to stay conscious, and now had to figure out what she was going to do. Her memories gave her a general idea of how this world worked, but now... she was free, surely this time she could forage the path for herself that she wanted, not contstrained by the opinions of others.
+Alyssa Merrymont is the girl who seems to have "just shown up" in Oak Vale this summer. She seems reserved and cold, and when you do get to speak with her, you learn that she doesn't exactly talk like someone from the area. When you look at her, you can't quite tell the style she's trying to pull off, is it a weird kind of fashion? Trying to be a tomboy? Alyssa always seems to be a bit distant, and even when she's engaged in what she's doing, you can almost get the sense she feels as though she'll disappear in the next moment.
+
+The [Winter Springs Motel](Winter Springs Motel.md) is graciously housing her, and the owner has come to refer to her as the "Queen of the Motel", a title which she doesn't seem to mind. If you visit the Motel, you may see Alyssa practicing swordplay with a real, honest-to-goodness sword, and you would see her tired green eyes start to sparkle in excitement. 
+
+Oak Vale still might not know where she came from or why she's staying, but her presence is sure to turn some heads.
 
 > [!INFO|left] Quick Facts
 > - Player: Izzie
 > - Skin: Fable
 > - Pronouns: She/Her
 > - Age: 17
-> - Height: 
-> - Fun fact
+> - Height: 5'9" (175cm)
+> - Fun fact: Is fluent in "Elvish" and "Runic", whatever languages those are
 
 ## **Main Character Connections**{: .connections-title}

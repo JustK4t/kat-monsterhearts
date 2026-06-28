@@ -14,7 +14,7 @@ Bio goes here
 > - Pronouns: 
 > - Age: 
 > - Height: 
-> - Fun fact
+> - Fun fact:
 
 ## **Main Character Connections**{: .connections-title}
 

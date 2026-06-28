@@ -1,7 +1,7 @@
 Has a blockbuster and radio shack
 
 Small town overall
-- [Blue Ridge High](Blue Ridge High.md) - The local high school, serves the whole county except for the kids who go to private school in the city.
+- [Blue Ridge High](Blue Ridge High.md) - The less local private high school for stuck up rich bitches.
 - [Brookhaven National Laboratory](Brookhaven National Laboratory.md) - Massive secretive government biochem lab keeping the area alive.
 - [Combo Radio Shack/Blockbuster](Combo Radio Shack and Blockbuster.md) - Is what it says on the tin. Run by [Craig Jenkins](Adults.md#Craig).
 - [Flea's Market](Flea's Market.md) - Local pawn shop run by the eponimous Flea. You can buy or sell most things here.
