@@ -1,9 +1,9 @@
 ![[graye_teen.png | 300]]
 
 
-> [!QUOTE|right] The \_\_\_\_ one
+> [!QUOTE|right] The wild one
 > ![Portrait of CHARACTER](./portraits/graye_teen.png){: .bio-portrait}
-> *"Cheesy Quote"*{: .bio-quote}
+> *"The lone wolf is the one that survives. It's the one that knows how to fend for itself."*{: .bio-quote}
 
 # **Graye Wilde**{: .bio-page-title}
 
@@ -23,8 +23,8 @@ Their parents, Sue and Harold Wilde, are well-meaning people who do try their be
 > - Skin: Werewolf
 > - Pronouns: They/Them
 > - Age: 16
-> - Height: 
-> - Fun fact
+> - Height: 5'7" (170cm)
+> - Fun fact: They don't seem to be very chatty unless you bring up Zelda games...
 
 ## **Main Character Connections**{: .connections-title}
 

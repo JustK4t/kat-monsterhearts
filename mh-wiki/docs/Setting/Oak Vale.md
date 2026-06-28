@@ -1,6 +1,4 @@
-Has a blockbuster and radio shack
-
-Small town overall
+Small town overall but there's plenty of places to see:
 - [Blue Ridge High](Blue Ridge High.md) - The less local private high school for stuck up rich bitches.
 - [Brookhaven National Laboratory](Brookhaven National Laboratory.md) - Massive secretive government biochem lab keeping the area alive.
 - [Combo Radio Shack/Blockbuster](Combo Radio Shack and Blockbuster.md) - Is what it says on the tin. Run by [Craig Jenkins](Adults.md#Craig).
@@ -8,6 +6,7 @@ Small town overall
 - [Glenn's Diner](Glenn's Drive In and Diner.md) - A cheery local diner and drive in.
 - [Lake Valor](Lake Valor.md) - The nearest lake for recreational watersports. The dam that created the lake powers BNL.
 - [Lion Court](Lion Court.md) - Fancy gated community home to the Raventhorne clan.
+- [Maple Valley High](Maple Valley High.md) - Local public highschool, serves most of the county and has a vibrant extracurricular scene.
 - [Summer Dreams Motor Court](Summer Dreams Motor Court.md) Backs up to Flea's market and he runs it too. Quaint motel with clean sheets and only the one Flea. Strangely competitive with the other motel across town.
 - [The Quarry](The Old Quarry.md) - Local hangout and swimming hole, used to produce limestone, now just produces at least one major cliffdiving injury a year. Technically tresspassing but there are so many holes in the fence it would be harder not to find your way in.
 - [Winter Springs Motel](Winter Springs Motel.md) - Run down motel owned and operated by a kindly old man named [Willy](Adults.md#Willy). He asks less questions and you might have to do your own laundry but he insists its better than the Flea ridden dump of a motel across town.
