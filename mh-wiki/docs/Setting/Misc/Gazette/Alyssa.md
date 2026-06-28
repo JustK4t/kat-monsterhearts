@@ -1,10 +1,10 @@
- [The Gazette](../The%20Gazette.md), September edition, 2004 
+ [The Gazette](The Gazette.md), September edition, 2004 
  Roll Call: The Girl who Appeared Out of Nowhere! 
- (Written and Edited by [Trish Gold](../../../Characters/NPC/Trish%20Gold.md)) 
+ (Written and Edited by [Trish Gold](Trish Gold.md)) 
  
- School is in session, and the summer heat blew in a new wave of classmates! Here at the Gazette, we wanted to try something new this year and tell you about some the people who you might see in the halls! Our first highlight is on the mysterious junior [Alyssa Merrymont](../../../Characters/Main/Alyssa%20Merrymont.md)! Nobody seems to know much about her, nobody saw her in town until a few months ago. Her fashion sense is super plain, but if you get a look at her face, you'll see she's actually super pretty! I think she had a few bad hair days, maybe that's why she likes wearing hats (even if the teachers tell her to take them off). I managed to sit down with her at lunch and ask a few questions (it only took me a few days of asking to finally get her to say yes)! 
+ School is in session, and the summer heat blew in a new wave of classmates! Here at the Gazette, we wanted to try something new this year and tell you about some the people who you might see in the halls! Our first highlight is on the mysterious junior [Alyssa Merrymont](Alyssa Merrymont.md)! Nobody seems to know much about her, nobody saw her in town until a few months ago. Her fashion sense is super plain, but if you get a look at her face, you'll see she's actually super pretty! I think she had a few bad hair days, maybe that's why she likes wearing hats (even if the teachers tell her to take them off). I managed to sit down with her at lunch and ask a few questions (it only took me a few days of asking to finally get her to say yes)! 
  
- _Why did you come to [[Maple Valley High]]?_ "It was the closest to my home, and I was not going to that Galoron forsaken [Blue Ridge High](../../Locations/Blue%20Ridge%20High.md)" (Anyone know who Galoron is?) 
+ _Why did you come to [[Maple Valley High]]?_ "It was the closest to my home, and I was not going to that Galoron forsaken [Blue Ridge High](Blue Ridge High.md)" (Anyone know who Galoron is?) 
  
  _What are you most excited for this school yeah?_ "I am hoping the weather stays fai- ... good for the rest of the year, so I may practice my swordsmanship outside." (She knows how to use a sword? People still do that?? Watch out boys!) 
  

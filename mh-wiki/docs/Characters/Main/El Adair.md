@@ -6,7 +6,7 @@
 
 # **Amy McCarthy**{: .bio-page-title}
 
-## **Bio**{: .bi-section-title}
+## **Bio**{: .bio-section-title}
 
 Bio goes here
 
@@ -23,5 +23,3 @@ Bio goes here
 [Everette](Everette Eerie.md) - ???
 
 [Graye](Graye Wilde.md) - Good friends
-
-No one... Yet ;)

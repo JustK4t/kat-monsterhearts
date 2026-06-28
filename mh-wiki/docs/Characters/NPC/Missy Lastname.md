@@ -4,7 +4,7 @@
 
 # **Missy Lastname**{: .bio-page-title}
 
-## **Bio**{: .bi-section-title}
+## **Bio**{: .bio-section-title}
 
 Works on the newspaper club with [Trish](./Trish%20Gold.md)
 Best friends with: ??? (sit together in homeroom, not trish)

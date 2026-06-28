@@ -10,9 +10,11 @@ img.bio-portrait {
 }
 
 .logo-img {
-    width: 400px;
-    max-width: 400px;
+    width: 250px;
+    max-width: 250px;
     border: 3px solid maroon;
     border-radius: 50%;
+    float: left;
+    margin-right: 2em;
 }
 

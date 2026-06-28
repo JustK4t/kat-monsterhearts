@@ -7,6 +7,6 @@ Mascot is The Vultures
 
 School newspaper: [The Gazette](The Gazette.md)
 
-[Ms Evermore](Adults.md#ms-evermore) homeroom teacher
+[Ms Evermore](_Adults.md#ms-evermore) homeroom teacher
 
 Has a recycling team

@@ -10,7 +10,7 @@ People say she can't see super well, but I never saw her run into anything (mayb
 I was able to talk to Annalise as she was about to leave school, and she let me ask some questions! She said that I could only ask about school stuff and not about super personal stuff, which is weird, I never ask about super personal stuff and I DEFINITELY wouldn't write about it! 
 
 Why did you come to our school?
-"I mean, I’ve been living here in town since I was three years old, and it just so happens that Oak Vale has better accommodations for me than [neighbouring towns’ schools], so it kind of works out for me. And anyway, it’s where [Lucas](../../../Characters/NPC/Adults.md#lucas-devin) went." (Lucas is her older brother, he sounds awesome!)
+"I mean, I’ve been living here in town since I was three years old, and it just so happens that Oak Vale has better accommodations for me than [neighbouring towns’ schools], so it kind of works out for me. And anyway, it’s where [Lucas](../../../Characters/NPC/_Adults.md#lucas-devin) went." (Lucas is her older brother, he sounds awesome!)
 
 Wait, THAT Lucas Devin?? His name is on the Baseball trophy in the lobby! Where is he now??
 "He goes to [nearby city college], studying to be a shrink. He still lives here in town though." (Annalise is totally related to our school's royalty!)

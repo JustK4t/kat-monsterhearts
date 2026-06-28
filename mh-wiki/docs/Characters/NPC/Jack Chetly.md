@@ -4,7 +4,7 @@
 
 # **Jack Chetly**{: .bio-page-title}
 
-## **Bio**{: .bi-section-title}
+## **Bio**{: .bio-section-title}
 
 Jack earned the unfortunate nickname of "Jock Chudly" his freshman year after setting the high school football records for both rushing yards and concussions. He is naturally athletic and the star of any sport that favors brawn. He's pretty chill but can run a little hot sometimes. He spends his non sports free time working on his classic muscle car and working out.
 

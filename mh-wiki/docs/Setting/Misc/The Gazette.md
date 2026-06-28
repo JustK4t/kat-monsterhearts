@@ -1,5 +1,5 @@
-Run by [Missy Lastname](../../Characters/NPC/Missy%20Lastname.md)
-Reporting by [Trish Gold](../../Characters/NPC/Trish%20Gold.md)
+Run by [Missy Lastname](Missy Lastname.md)
+Reporting by [Trish Gold](Trish Gold.md)
 
 Articles
 * [An interview with Alyssa Merrymont](./Gazette/Alyssa.md)

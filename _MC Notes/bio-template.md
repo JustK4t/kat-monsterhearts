@@ -4,7 +4,7 @@
 
 # **NPC Name**{: .bio-page-title}
 
-## **Bio**{: .bi-section-title}
+## **Bio**{: .bio-section-title}
 
 Bio goes here
 

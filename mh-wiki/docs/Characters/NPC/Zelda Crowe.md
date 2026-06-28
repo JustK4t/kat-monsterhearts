@@ -1,20 +1,10 @@
-Zelda Crowe (she/they)
-Also a y2k it girl
-Also on the track team, they joined together  in 7th grade and became inseparable 
-Her and aliya sort of have a power struggle in their friendship and they’re always trying to one-up each other
-Can absolutely play piano. And well.
-Competitive diva, but she’s not all bad, she is genuinely compassionate and supportive
-So cool. Probably vapes
-Very mean to trish, but not like a traditional bully
-
-
 > [!QUOTE|right] The \_\_\_\_ one
-> ![Portrait of CHARACTER](./portraits/temp.jpg){: .bio-portrait}
+> ![Portrait of Zelda](./portraits/zelda.png){: .bio-portrait}
 > *"Cheesy Quote"*{: .bio-quote}
 
 # **Zelda Crowe**{: .bio-page-title}
 
-## **Bio**{: .bi-section-title}
+## **Bio**{: .bio-section-title}
 
 Also a y2k it girl
 Also on the track team, they joined together  in 7th grade and became inseparable 

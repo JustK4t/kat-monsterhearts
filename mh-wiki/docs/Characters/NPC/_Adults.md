@@ -2,7 +2,7 @@
 Idc about adults enough to make individual pages
 
 ## The Director
-LC's dad, director of [BNL](Brookhaven National Laboratory.md)
+Daniel Hawethorne LC's dad, director of [BNL](Brookhaven National Laboratory.md)
 
 ## LC's mom
 Hannah Fig, Phd in extremophile microbiology
@@ -23,3 +23,12 @@ Calm, cool, collected, Mature, Huge older sister vibes, Gay
 Frazzled, Friendly, “Aunt Wennie”
 Loves to cook and eat, but eating human food is getting harder and more painful
 Raised Aliya
+
+## Glenn
+Glenn Gleason is the owner operator of Glenn's diner. Cheery fellow, rosy cheeks, giant mustasche, and an always clean apron. Enjoys classic cars and classic rock.
+
+## Willy
+Willy is old or at least looks it. He smokes a pack a day and drinks moonshine like its water. Always careful to never learn anything about anyone's business because "I meddled once and look where thats got me". No one is quite sure what he means by this.
+
+## Craig
+Craig Jenkins operates the worlds only combination Radio Shack/Blockbuster/Taco Bell. At least he will when he gets the permits sorted to add the Taco Bell.

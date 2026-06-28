@@ -4,7 +4,7 @@
 
 # **Melody Lastname**{: .bio-page-title}
 
-## **Bio**{: .bi-section-title}
+## **Bio**{: .bio-section-title}
 light and easy going, lil fun/flirty, maybe the kinda girl you don't really ever know what she's thinking because she always acts the same to everyone
 
 Works at the cafe to build up som cash so that maybe she can go  to school to be an astronaut, but she doesn't quite have the grades to support it, but it doesn't mean she wants to give up on her dreams

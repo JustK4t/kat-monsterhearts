@@ -4,7 +4,7 @@
 
 # **Aliya Raventhorne**{: .bio-page-title}
 
-## **Bio**{: .bi-section-title}
+## **Bio**{: .bio-section-title}
 
 This is Aliya Raventhorne, Y2K it girl, old money more like ANCIENT money, huuuge vampire family with mansions taking up an entire block. She was turned into a vampire and officially inducted into the immortal part of the family a couple months ago, on her 16th birthday. She feels her humanity slipping away and is desperate to hold onto it. She is also desperate to fit in with her family, who are very pro-humanity-slipping-away. 
 
@@ -26,5 +26,4 @@ Easily sunburnt and light sensitive, silver burns her BAD. Vampires age extra sl
 
 [Amy](El Adir.md) - ???
 
-No one... Yet ;)
 

@@ -4,7 +4,7 @@
 
 # **NPC Name**{: .bio-page-title}
 
-## **Bio**{: .bi-section-title}
+## **Bio**{: .bio-section-title}
 
 Was in volleyball with Everette and they would skate to practice together
 
@@ -20,4 +20,4 @@ Throws paper balls at Everette in class to make other people laugh
 
 [Everette](Everette Eerie.md) - Former friends and teammates, currently mild bully
 
-No one... Yet ;)
+[Alyssa](Alyssa Merrymont.md) - Has a massive crush on her

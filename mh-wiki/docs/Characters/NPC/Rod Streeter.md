@@ -4,7 +4,7 @@
 
 # **NPC Name**{: .bio-page-title}
 
-## **Bio**{: .bi-section-title}
+## **Bio**{: .bio-section-title}
 
 Skinny, pale, greasy hair, always staring at people from afar from underneath his stupid hoody he wears everyday.
 

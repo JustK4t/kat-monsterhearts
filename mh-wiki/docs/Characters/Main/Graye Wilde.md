@@ -7,7 +7,7 @@
 
 # **Graye Wilde**{: .bio-page-title}
 
-## **Bio**{: .bi-section-title}
+## **Bio**{: .bio-section-title}
 
 This is Graye Wilde (16, nb, they/them). They got turned into a werewolf while wandering in the woods at a crappy religious summer camp their parents sent them too. Now they think they're super badass and cool and definitely aren't anxious at all.
 
