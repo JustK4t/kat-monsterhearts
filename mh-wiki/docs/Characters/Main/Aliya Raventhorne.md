@@ -24,6 +24,6 @@ Easily sunburnt and light sensitive, silver burns her BAD. Vampires age extra sl
 
 ## **Main Character Connections**{: .connections-title}
 
-[Amy](El Adir.md) - ???
+[Amy](El Adir.md) - Rivals! Also doesn't want Trish to move on
 
 

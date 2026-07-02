@@ -32,3 +32,6 @@ Willy is old or at least looks it. He smokes a pack a day and drinks moonshine l
 
 ## Craig
 Craig Jenkins operates the worlds only combination Radio Shack/Blockbuster/Taco Bell. At least he will when he gets the permits sorted to add the Taco Bell.
+
+## Mr. Stelmanis
+Music teacher

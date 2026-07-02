@@ -22,4 +22,4 @@ Bio goes here
 
 [Everette](Everette Eerie.md) - ???
 
-[Graye](Graye Wilde.md) - Good friends
+[Graye](Graye Wilde.md) - Good friends, fake werewolf

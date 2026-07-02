@@ -28,6 +28,6 @@ Their parents, Sue and Harold Wilde, are well-meaning people who do try their be
 
 ## **Main Character Connections**{: .connections-title}
 
-[Amy](El Adir.md) - Good friends
+[Amy](El Adir.md) - Good friends, thinks Amy is a werewolf too!
 
 No one... Yet ;)

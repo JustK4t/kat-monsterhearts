@@ -23,3 +23,9 @@ She is a decent student, has a close handful of friends, and a good home life.
 [Amy](El Adir.md) - Amy has been flirting with Trish heavy lately, shes not really sure what to do with the attention after being ignored/unrequited by Aliya for so long
 
 [Everette](Everette Eerie.md) - Wants to know whats in his book SO BAD, doesn't bully him though
+
+[Graye](Graye Wilde.md) - Wants to explore in the woods with them SO BAD
+
+[Alyssa](Alyssa Merrymont.md) - TBD
+
+[Annalise](Annalise Devin.md) - TBD

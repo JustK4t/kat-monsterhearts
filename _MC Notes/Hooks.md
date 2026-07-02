@@ -1,6 +1,6 @@
 ## [[Aliya Raventhorne]]
 
-* i think Aliya, her whole life, wanted her older cousin Nisha to be the one to turn her. and she made this known. Nisha is about 10-20 years older than Aliya is. but when Aliya was 15, like months before her ceremony, so less than a year ago, Nisha left the family. she just disappeared. no one knows why. no one has been able to contact her. (there are definitely some people in the family who know why and are the reason but they haven’t fessed up.) aliya was devastated and wanted to delay her ceremony, but her family wouldn’t have it. she chose some relative who she also loves and respects but does not have the same connection with as she did Nisha. Nisha is gay
+* where TF is Nisha 
 * Trish is convinced shes a vamp and has a massive crush
 * Family pressure to associate with the right types
 
@@ -11,14 +11,24 @@
 ## [[Annalise Devin]]
 
 * Everette's death
+* Alyssa's deaths
+* Friends with Zelda
 
 ## [[Everette Eerie]]
 
 * Accident that killed their mom (trying to leak to LC's mom, killed by LC's dad)
 * Accident that killed them
+* Petunia vs El
 
 ## [[Graye Wilde]]
 
 * The werewolf that turned them is under my control
+* Big crush on LC
+
+## [Amy]
+* Streeter blackmail
+* flirting with trish
+* Aliya Rivalry
+* Fake werewolf
 
 
