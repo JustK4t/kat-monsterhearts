@@ -22,5 +22,5 @@ Nobody knows why he’s acted like this before… but everyone knows that ever s
 
 [Amy](El Adir.md) - ???
 
-[Alyssa](Alyssa Merrymont.md) - Strongly dislikes, is jealous over also having a thing for [Melody](Melody Lastname.md)
+[Alyssa](Alyssa Merrymont.md) - Strongly dislikes, is jealous over also having a thing for [Melody](Melody.md)
 

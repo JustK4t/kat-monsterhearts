@@ -26,6 +26,6 @@ She is a decent student, has a close handful of friends, and a good home life.
 
 [Graye](Graye Wilde.md) - Wants to explore in the woods with them SO BAD
 
-[Alyssa](Alyssa Merrymont.md) - TBD
+[Alyssa](Alyssa Merrymont.md) - Wants to see Alyssa use a sword and says she wants to learn some kind of self defence (because you would always have a sword on you incase someone jumped you)
 
-[Annalise](Annalise Devin.md) - TBD
+[Annalise](Annalise Devin.md) - Is learning chess from Annalise. Struggles with the long game/strategy but enjoys it quite a bit. Looks forward to her weekly chess lessons.

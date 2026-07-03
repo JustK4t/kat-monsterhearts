@@ -15,3 +15,9 @@ Runs the newspaper club and serves as the voice of reason keeping Trish reasonab
 
 ## Amanda Ram
 Haha funny name
+
+## Stacy Evermore
+sometimes called Staccato
+
+## Barry Evermore
+sometimes called Baritone

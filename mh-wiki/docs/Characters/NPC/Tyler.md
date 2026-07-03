@@ -2,7 +2,7 @@
 > ![Portrait of Tyler](./portraits/tyler.png){: .bio-portrait}
 > *"Cheesy Quote"*{: .bio-quote}
 
-# **NPC Name**{: .bio-page-title}
+# **Tyler Crater**{: .bio-page-title}
 
 ## **Bio**{: .bio-section-title}
 
