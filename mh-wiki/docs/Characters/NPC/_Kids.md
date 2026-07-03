@@ -12,3 +12,6 @@ Jack tries in school but is only passing by the grace of the faculty, his parent
 
 ## Missy
 Runs the newspaper club and serves as the voice of reason keeping Trish reasonable and in line with school editorial policy.
+
+## Amanda Ram
+Haha funny name

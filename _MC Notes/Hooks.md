@@ -7,6 +7,8 @@
 ## [[Alyssa Merrymont]]
 
 * Technically unhoused, going to put her up in a roadside motel owned by a gruff old guy who refuses to ask questions about why she needs a place and gives her $20 a week + free room to do a few loads of laundry a week. Playing on the grumpy but loyal knight for the princess trope
+* Really wants "Amy"s approval
+* Wants to know more about Annalise
 
 ## [[Annalise Devin]]
 
