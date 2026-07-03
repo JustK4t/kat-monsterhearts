@@ -21,6 +21,4 @@ Sneaks into the planetarium in Roanoke pretty often on the weekends
 
 ## **Main Character Connections**{: .connections-title}
 
-[link](.md) - Blah blah blah
-
 No one... Yet ;)
