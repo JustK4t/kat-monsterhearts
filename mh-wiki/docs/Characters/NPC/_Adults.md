@@ -14,7 +14,7 @@ Cleo's dad, runs a pawnshop called 'Flea's market'. He doesn’t ask many questi
 Older brother of Annalise, going to college in the larger nearby town, maybe to become a shrink. Does live on their grandmother’s estate though, he’s maybe 23 so he commutes to the college 
 
 ## Ms Evermore
-Homeroom teacher for this school year
+Homeroom teacher for this school year, mother of Melody, Barry, and Stacy
 
 ## Nisha Raventhorne (Aliya's cousin, ~26, she/her)
 Calm, cool, collected, Mature, Huge older sister vibes, Gay
