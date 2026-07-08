@@ -7,6 +7,7 @@ Small town overall but there's plenty of places to see:
 - [Lake Valor](Lake Valor.md) - The nearest lake for recreational watersports. The dam that created the lake powers BNL.
 - [Lion Court](Lion Court.md) - Fancy gated community home to the Raventhorne clan.
 - [Maple Valley High](Maple Valley High.md) - Local public highschool, serves most of the county and has a vibrant extracurricular scene.
+- [Oh Deer Cafe](Oh Deer Cafe.md) - Small coffee shop and bakery. Cleo and Melody work here
 - [Summer Dreams Motor Court](Summer Dreams Motor Court.md) Backs up to Flea's market and he runs it too. Quaint motel with clean sheets and only the one Flea. Strangely competitive with the other motel across town.
 - [The Quarry](The Old Quarry.md) - Local hangout and swimming hole, used to produce limestone, now just produces at least one major cliffdiving injury a year. Technically tresspassing but there are so many holes in the fence it would be harder not to find your way in.
 - [Winter Springs Motel](Winter Springs Motel.md) - Run down motel owned and operated by a kindly old man named [Willy](Adults.md#Willy). He asks less questions and you might have to do your own laundry but he insists its better than the Flea ridden dump of a motel across town.

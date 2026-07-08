@@ -6,7 +6,7 @@
 
 ## **Bio**{: .bio-section-title}
 
-Son of [Flea](_Adults.md#flea-oisin) with no mother in the picture whatsoever, Cleo is a notorious gossip hound. If theres a secret, someone has probably already told him. If you need info fae probably have it.. for a price. In addition to secrets and information Cleo loves to collect trinkets, shiny objects and kisses. He never forgets a debt but has been known to forgive them on occasion. Cleo is strikingly pretty in an ethereal way, wears faer shirts unbottoned just a little too far, and a shameless flirt. His hobbies include: attending various sports practices to admire the atheletes, playing matchmaker, and petty theft.
+Son of [Flea](_Adults.md#flea-oisin) with no mother in the picture whatsoever, Cleo is a notorious gossip hound. If theres a secret, someone has probably already told him. If you need info fae probably have it.. for a price. In addition to secrets and information Cleo loves to collect trinkets, shiny objects and kisses. He never forgets a debt but has been known to forgive them on occasion. Cleo is strikingly pretty in an ethereal way, wears faer shirts unbottoned just a little too far, and a shameless flirt. His hobbies include: attending various sports practices to admire the atheletes, playing matchmaker, and petty theft. He works at the [Oh Deer Cafe](Oh Deer Cafe.md)
 
 Cleo gets decent grades and is being tutored in several subjects. Fae get along well with Flea who likes to laugh, shake his head, and say "You're just like your mother kid." to any trouble he gets himself into.
 

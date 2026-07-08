@@ -23,3 +23,5 @@ They are a good student, failing everything as a protest, don't have any close f
 [Graye](Graye Wilde.md) - ???
 
 [Everette](Everette Eerie.md) - ???
+
+[Alyssa](Alyssa Merrymont.md) - Teaching her how to drive in their dad's BMW on the weekends
