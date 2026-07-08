@@ -1,5 +1,5 @@
 > [!QUOTE|right] The \_\_\_\_ one
-> ![Portrait of CHARACTER](./portraits/chandra.png){: .bio-portrait}
+> ![Portrait of Chandra](./portraits/chandra.png){: .bio-portrait}
 > *"Cheesy Quote"*{: .bio-quote}
 
 # **Chandra Modi**{: .bio-page-title}
