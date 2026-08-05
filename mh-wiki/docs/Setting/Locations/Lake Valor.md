@@ -1,0 +1,1 @@
+Recreational swimming and boating with a small artificial beach. Too far to walk but a short drive away its a popular weekend retreat.

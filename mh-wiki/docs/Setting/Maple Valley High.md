@@ -9,4 +9,4 @@ School newspaper: [The Gazette](The Gazette.md)
 
 [Ms Evermore](_Adults.md#ms-evermore) homeroom teacher
 
-Has a recycling team
+Has a [recycling team](Recycling Team.md)

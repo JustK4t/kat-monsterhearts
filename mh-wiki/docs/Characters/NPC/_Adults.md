@@ -17,10 +17,12 @@ Older brother of Annalise, going to college in the larger nearby town, maybe to 
 ![Portrait of Ms Evermore](./portraits/ms evermore.png){: .bio-portrait}
 Homeroom teacher for this school year, mother of Melody, Barry, and Stacy
 
-## Nisha Raventhorne (Aliya's cousin, ~26, she/her)
+## Nisha Raventhorne
+(Aliya's cousin, ~26, she/her)
 Calm, cool, collected, Mature, Huge older sister vibes, Gay
 
-## Morwenna Raventhorne (Aliya's aunt, 39, she/her)
+## Morwenna Raventhorne
+ (Aliya's aunt, 39, she/her)
 Frazzled, Friendly, “Aunt Wennie”
 Loves to cook and eat, but eating human food is getting harder and more painful
 Raised Aliya
@@ -36,3 +38,9 @@ Craig Jenkins operates the worlds only combination Radio Shack/Blockbuster/Taco 
 
 ## Mr. Stelmanis
 Music teacher
+
+## Mr. Thetelescopen
+Science teacher with an ironic hobby of astrophotography
+
+## Sebastian Lukas
+The town sheriff

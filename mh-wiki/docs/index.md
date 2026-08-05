@@ -6,6 +6,6 @@ Welcome to [Oak Vale](Oak Vale.md), a sleepy town nestled in the Blue Ridge Moun
 
 Get more info on [the setting](Setting.md) in general or just click around our characters and locations! Named NPCs are members of the homeroom, other characters are listed in either [Adults](_Adults.md) or [Kids](_Kids.md)
 
-Still very much under construction, sorry about the links (but not sorry enough to fix them all)
+Who's crushing on who? https://polycul.es/52e4cdb
 
 ![Homeroom](./img/homeroom.png)

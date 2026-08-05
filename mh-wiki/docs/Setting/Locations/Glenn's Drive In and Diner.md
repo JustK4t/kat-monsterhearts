@@ -1,3 +1,3 @@
-A cheery local diner and drive in. Good food, great prices, stunning milkshakes, and the occasional movie projected onto the side of the building. Many locals can be found here on hot summer nights.
+A cheery local diner and drive in. Good food, great prices, stunning milkshakes, and the occasional movie projected onto the side of the building. Many locals can be found here on hot summer nights lounging in cars with the windows down.
 
-Run by [Glenn](Adults.md#Glenn)
+Run by [Glenn](Adults.md#Glenn), a lifelong bachelor with a talent for keeping his nose out of other people's business. The popularity of the joint and his discretion have made the parking lot a common neutral ground for tense meetings.

@@ -1,5 +1,7 @@
-Top secret gov lab, works on biochemical projects
+Brookhaven National Laboratory in Oak Vale, West Virgina, is a high security National Biocontainment Laboratory housing several [Biosafety level 4](https://en.wikipedia.org/wiki/Biosafety_level#Level_4) research laboratories. It is one of two labs in the world equipped for the curation of extraterrestrial materials in order to maintain the sterility of the sample and prevent the release of unknown bio-hazards of 10 nanometers or larger.
 
-Located outside of town, over the next ridge, at the top of a mountain.
+BHNL is an eight-story structure built using construction standards designed to resist up to a Category 5 hurricane or magnitude 9.0 earthquake. In addition to structural design elements, other protective measures included support pilings reaching a depth of 120 feet (37 m) into the earth and the placement of all lab facilities at a height of at least 30 feet (9.1 m) above the 100-year floodplain.
 
-Facility is large enough there are enough non-classified elements where visitors are pretty common, just sign in at the visitors desk
+The bio lab primarily performs research to develop diagnostics, therapeutics and vaccines to combat exotic, emerging, and re-emerging diseases, while the upper floors are dedicated to material sciences such as high-temperature superconductivity, nanomaterials, and metamaterials.
+
+Sandwiched between the restricted and classified areas sit nearly 2600 administrative, janitorial, and security personel inhabiting a maze of offices and storage.

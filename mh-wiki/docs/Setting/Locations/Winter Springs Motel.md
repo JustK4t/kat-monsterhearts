@@ -1,0 +1,3 @@
+This place has seen better days. The roof is bowed and the parking lot is more pothole than asphalt. Its proxemity to the highway and rock bottom prices keep it going with the occasional long haul truck driver or road tripper. The owner Willy is very helpful despite his age but seems to have an unusual dislike of the Summer Dreams Motor Court and its residents.
+
+Despite the name, there are no springs hot or otherwise on the property. Maybe if there were the hot water would work better.

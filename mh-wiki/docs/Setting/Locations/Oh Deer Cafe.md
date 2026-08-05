@@ -1,0 +1,1 @@
+A small cafe serving pastries in the morning, ice cream in the afternoon, and coffee all day. The atomosphere is warm and a taxidermied deer stands above the cash register with an exaggerated shocked look on its face. There is a small gazebo out back as well as other outdoor seating.
