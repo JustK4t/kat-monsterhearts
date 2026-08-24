@@ -15,7 +15,8 @@ Cleo gets decent grades and is being tutored in several subjects. Fae get along 
 > - Age: 16
 > - Height: 6'0" (183cm)
 > - Can do a standing backflip and walk around in a handstand
+> - Conditions: Liar
 
 ## **Main Character Connections**{: .connections-title}
 
-[Aliya](Aliya Raventhorne.md) Sits behind her in homeroom, constantly pointing out things outside the window and flirting hard enough no one is sure if its for fun or for serious.
+[Aliya](Aliya Raventhorne.md) Sits behind her in homeroom, constantly pointing out things outside the window and flirting hard enough no one is sure if its for fun or for serious. His feelings are seriously hurt by being called a liar

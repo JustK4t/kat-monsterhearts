@@ -14,6 +14,7 @@ Seems like the kinda guy to be into roller skating
 does stage crew but is a total slacker
 plays bass guitar and loves ska
 latino
+Probably holding a grudge about Aliya not letting him do a secret pre-party activity
 
 > [!INFO|left] Quick Facts
 > - Pronouns: He/him

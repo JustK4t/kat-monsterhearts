@@ -10,6 +10,8 @@ Trish has lived in [Oak Vale](Oak Vale.md) her whole life. She's into journalism
 
 She is a decent student, has a close handful of friends, and a good home life.
 
+The recent accident in the [Old Quarry](s1-e0a.md) has left her shaken and sent her supernatural conspiracy theories into overdrive.
+
 > [!INFO|left] Quick Facts
 > - Pronouns: She/Her
 > - Age: 17
@@ -20,12 +22,12 @@ She is a decent student, has a close handful of friends, and a good home life.
 
 [Aliya](Aliya Raventhorne.md) - Friends from a young age, the two grew apart after sharing a kiss in the 5th grade. Trish tasted like garlic which Aliya hates and became convinced she was a vampire. Trish spent the next several years poking Aliya with silver objects and trying to get her to cross running water and in return was constantly mocked by Aliya. While it has tapered off since High School began, Trish is still sure she's right and has a *massive*, crush on Aliya.
 
-[Amy](El Adir.md) - Amy has been flirting with Trish heavy lately, shes not really sure what to do with the attention after being ignored/unrequited by Aliya for so long
+[Amy](El Adir.md) - Amy has been flirting with Trish heavy lately, she's not really sure what to do with the attention after being ignored/unrequited by Aliya for so long
 
-[Everette](Everette Eerie.md) - Wants to know whats in his book SO BAD, doesn't bully him though
+[Everette](Everette Eerie.md) - Wants to know what's in his book SO BAD, doesn't bully him though. Good friends, trauma bonded over finding Melody's body
 
-[Graye](Graye Wilde.md) - Wants to explore in the woods with them SO BAD
+[Graye](Graye Wilde.md) - Wants to explore in the woods with them SO BAD, trauma bonded over finding Melody's body
 
-[Alyssa](Alyssa Merrymont.md) - Wants to see Alyssa use a sword and says she wants to learn some kind of self defence (because you would always have a sword on you incase someone jumped you)
+[Alyssa](Alyssa Merrymont.md) - Wants to see Alyssa use a sword and says she wants to learn some kind of self-defense (because you would always have a sword on you in case someone jumped you)
 
 [Annalise](Annalise Devin.md) - Is learning chess from Annalise. Struggles with the long game/strategy but enjoys it quite a bit. Looks forward to her weekly chess lessons.

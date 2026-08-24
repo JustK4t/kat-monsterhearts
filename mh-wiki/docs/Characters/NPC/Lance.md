@@ -14,6 +14,8 @@ He has a heart of gold, as he really does want to live up to the reputation of h
 
 (Editor's note: he does not actually have a sword, the photo gallery where yearbook pictures are taken had a sword and he geeked out)
 
+Great friends with Elric Raventhorne, and enjoys playing hacky sack
+
 > [!INFO|left] Quick Facts
 > - Pronouns: He/him
 > - Age: 15 (started kindergarten way early, youngest in class)
