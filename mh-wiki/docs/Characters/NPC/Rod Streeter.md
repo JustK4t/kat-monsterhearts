@@ -16,7 +16,7 @@ Nobody knows why he’s acted like this before… but everyone knows that ever s
 > - Pronouns: He/Him
 > - Age: 18
 > - Height: 5'9" (175cm)
-> - Fun fact: Will not be graduating, plans to join the merchant marines next year. Does not know what a merchant marine is but is hoping its like a marine and a pirate
+> - Fun fact: Will not be graduating, plans to join the merchant marines next year. Does not know what a merchant marine is but is hoping it's like a marine and a pirate
 
 ## **Main Character Connections**{: .connections-title}
 
