@@ -10,6 +10,8 @@ She's half Spanish, and she is friends with Christopher and Annalise. Actually, 
 
 She has been secretly dating [Chris](Christopher.md) but recently pushed him to take the leap and make it not secret anymore.
 
+Can borrow her mom's car on the weekend.
+
 > [!INFO|left] Quick Facts
 > - Pronouns: She/Her
 > - Age: 17

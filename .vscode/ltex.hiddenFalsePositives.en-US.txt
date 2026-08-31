@@ -1,0 +1,2 @@
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QGraye Graye rolls out of bed\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QGraye Graye rolls out of bed and dives into Pokémon Sapphire on their Gameboy Advance\\E$"}

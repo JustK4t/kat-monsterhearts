@@ -11,7 +11,11 @@ Works at the [cafe](Oh Deer Cafe.md) to build up some cash so that maybe she can
 
 Light and easy going, lil fun/flirty, maybe the kinda girl you don't really ever know what she's thinking because she always acts the same to everyone
 
-Sneaks into the planetarium in Roanoke pretty often on the weekends, is dating Balkan despite the headaches he causes.
+Sneaks into the planetarium in Roanoke pretty often on the weekends, is dating Balkan despite the headaches he causes. Strongly dislikes Streeter.
+
+It has been determined Melody is a ghoul the same way Everette is, although her hungers aren't known she is shockingly angry at those she believes responsible (and in general).
+
+Balkan has ghosted her and she wants to be done with him. Went on a lunch date with Alyssa in [s1 e1](./s1-e1.md) which turned into a passionate hookup.
 
 > [!INFO|left] Quick Facts
 > - Pronouns: She/Her
@@ -21,4 +25,6 @@ Sneaks into the planetarium in Roanoke pretty often on the weekends, is dating B
 
 ## **Main Character Connections**{: .connections-title}
 
-[Alyssa](Alyssa Merrymont.md) - Asked Alyssa on a lunch date the weekend of the 4th/5th
+[Alyssa](Alyssa Merrymont.md) - Showed Alyssa a great time after lunch ;), def haven't defined the relationship though
+
+[Annalise](Annalise Devin.md) - ???

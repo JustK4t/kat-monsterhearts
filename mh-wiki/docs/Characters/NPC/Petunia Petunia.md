@@ -6,7 +6,11 @@
 
 ## **Bio**{: .bio-section-title}
 
-Bio goes here
+Has a new boyfriend who is:
+- Taller than her
+- Probably goes to her school since he doesn't go to Maple Valley High
+- Really cool
+- Likely has brown hair
 
 > [!INFO|left] Quick Facts
 > - Pronouns: She/Her

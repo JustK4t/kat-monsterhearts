@@ -22,9 +22,9 @@ The recent accident in the [Old Quarry](s1-e0a.md) has left her shaken and sent 
 
 [Aliya](Aliya Raventhorne.md) - Friends from a young age, the two grew apart after sharing a kiss in the 5th grade. Trish tasted like garlic which Aliya hates and became convinced she was a vampire. Trish spent the next several years poking Aliya with silver objects and trying to get her to cross running water and in return was constantly mocked by Aliya. While it has tapered off since High School began, Trish is still sure she's right and has a *massive*, crush on Aliya.
 
-[Amy](El Adir.md) - Amy has been flirting with Trish heavy lately, she's not really sure what to do with the attention after being ignored/unrequited by Aliya for so long
+[Amy](El Adir.md) - Really nervous about dating someone who seems so cool. Likes Amy a whole lot and hopes she feels the same.
 
-[Everette](Everette Eerie.md) - Wants to know what's in his book SO BAD, doesn't bully him though. Good friends, trauma bonded over finding Melody's body
+[Everette](Everette Eerie.md) - Great friends, trauma bonded over finding Melody's body. Fascinated with the concept that he's undead and down for more breaking and entering but only to help him figure out how he died
 
 [Graye](Graye Wilde.md) - Wants to explore in the woods with them SO BAD, trauma bonded over finding Melody's body
 

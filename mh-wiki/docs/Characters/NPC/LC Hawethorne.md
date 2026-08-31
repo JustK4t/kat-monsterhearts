@@ -12,6 +12,8 @@ LC moved to town a few years ago when their [dad](_Adults.md#the-director) becam
 
 They are a good student, failing everything as a protest, don't have any close friends, and have a distant relationship with both parents by choice.
 
+Knows about Amy and Trish hooking up, seemed more bothered about Trish potentially feeling cheated than the idea of Amy with someone else.
+
 > [!INFO|left] Quick Facts
 > - Pronouns: They/Them
 > - Age: 17
@@ -26,4 +28,4 @@ They are a good student, failing everything as a protest, don't have any close f
 
 [Alyssa](Alyssa Merrymont.md) - Teaching her how to drive in their dad's BMW on the weekends
 
-[Amy](El Adir.md) - Hatefucking is such a harsh word, maybe 'getting annoyed by then resolving their frustration with'-fucking fits better
+[Amy](El Adir.md) - Hatefucking is such a harsh word, maybe 'getting annoyed by then resolving their frustration with'-fucking fits better. Who knows if this will continue in the post getting stood up and Amy/Trish world.
