@@ -14,7 +14,7 @@ Seems like the kinda guy to be into roller skating
 does stage crew but is a total slacker
 plays bass guitar and loves ska
 latino
-Probably holding a grudge about Aliya not letting him do a secret pre-party activity
+Probably holding a grudge about Aliya not letting him do a secret pre-party activity and is hooking up with Cleo fairly consistently
 
 > [!INFO|left] Quick Facts
 > - Pronouns: He/him
@@ -25,5 +25,3 @@ Probably holding a grudge about Aliya not letting him do a secret pre-party acti
 ## **Main Character Connections**{: .connections-title}
 
 [Aliya](Aliya Raventhorne.md) - Besties
-
-No one... Yet ;)

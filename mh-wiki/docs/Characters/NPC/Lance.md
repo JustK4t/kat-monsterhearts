@@ -25,5 +25,3 @@ Great friends with Elric Raventhorne, and enjoys playing hacky sack
 ## **Main Character Connections**{: .connections-title}
 
 [Alyssa](Alyssa Merrymont.md) - Thinks its cool she acts/talks like a princess
-
-No one... Yet ;)

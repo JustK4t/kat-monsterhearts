@@ -15,7 +15,7 @@ Sneaks into the planetarium in Roanoke pretty often on the weekends, is dating B
 
 It has been determined Melody is a ghoul the same way Everette is, although her hungers aren't known she is shockingly angry at those she believes responsible (and in general).
 
-Balkan has ghosted her and she wants to be done with him. Went on a lunch date with Alyssa in [s1 e1](./s1-e1.md) which turned into a passionate hookup.
+Balkan has ghosted her, and she wants to be done with him. Went on a lunch date with Alyssa in [s1 e1](./s1-e1.md) which turned into a passionate hookup.
 
 > [!INFO|left] Quick Facts
 > - Pronouns: She/Her
