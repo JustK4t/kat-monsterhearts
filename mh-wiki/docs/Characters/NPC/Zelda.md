@@ -12,7 +12,7 @@ Her and aliya sort of have a power struggle in their friendship and they’re al
 Can absolutely play piano. And well.
 Competitive diva, but she’s not all bad, she is genuinely compassionate and supportive
 So cool. Probably vapes
-Very mean to trish, but not like a traditional bully
+Very mean to Trish, but not like a traditional bully
 
 > [!INFO|left] Quick Facts
 > - Pronouns: She/They

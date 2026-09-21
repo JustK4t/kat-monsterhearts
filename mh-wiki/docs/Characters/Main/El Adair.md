@@ -1,10 +1,11 @@
-# Amy McCarthy
+# El Adir
 
 > [!QUOTE|right] The \_\_\_\_ one
+> ![Portrait of El](./portraits/el.png){: .bio-portrait}
 > ![Portrait of Amy](./portraits/amy.png){: .bio-portrait}
 > *"Cheesy Quote"*{: .bio-quote}
 
-# **Amy McCarthy**{: .bio-page-title}
+# **El "Amy McCarthy" Adir**{: .bio-page-title}
 
 ## **Bio**{: .bio-section-title}
 
