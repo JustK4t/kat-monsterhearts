@@ -17,7 +17,7 @@ Has become increasingly withdrawn and socially isolated.
 > - Skin: Ghoul
 > - Pronouns: He/Him
 > - Age: 17
-> - Height: 
+> - Height: 5'10" (175cm)
 > - Fun fact
 
 ## **Main Character Connections**{: .connections-title}

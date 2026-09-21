@@ -16,7 +16,7 @@ Bio goes here
 > - Skin: ???
 > - Pronouns: She/They
 > - Age: 
-> - Height: 
+> - Height (As Amy): 5'6" (168cm)
 > - Fun fact
 
 ## **Main Character Connections**{: .connections-title}

@@ -23,7 +23,7 @@ Their parents, Sue and Harold Wilde, are well-meaning people who do try their be
 > - Skin: Werewolf
 > - Pronouns: They/Them
 > - Age: 16
-> - Height: 5'7" (170cm)
+> - Height: 5'6" (168cm)
 > - Fun fact: They don't seem to be very chatty unless you bring up Zelda games...
 
 ## **Main Character Connections**{: .connections-title}
